@@ -10,7 +10,7 @@ Facebook ZSTD Implementation in rust
 * Keeping update with latest zstd updates and specification
 
 
-## Non Goals:
+## Non-Goals:
 
 * Making new or changed zstd specification
 
@@ -24,17 +24,17 @@ Facebook ZSTD Implementation in rust
 - [ ] Command line executable
 - [ ] Providing external API (.so, .dll)
 - [ ] Multi threading support
-- [ ] Multi Platform Executable Providing
+- [ ] Providing Cross-Platform Executables
 - [ ] Alpha And Beta Test
 - [ ] Code cleanups and external API stability
 - [ ] First stable release
 
 
 ## Participating and Sending pull request
-We appreciate your participation on developing this project, We truly believe in OpenSource commmunity.
-But before starting writing some piece of code and sending pull request 
+We appreciate your participation in developing this project, We truly believe in Open-Source community.
+But before starting writing some piece of code and sending a pull request 
 please open an issue and negotiate about implementation or patch with project managers and community.
 
-We kindly asking you to keep professional courtesy while contributing or answering to issues.
+We kindly ask you to keep professional courtesy while contributing or answering to issues.
 
 Always remember that every patch shall contain a unit test for the patched bug.
